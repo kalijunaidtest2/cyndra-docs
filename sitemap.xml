@@ -1,0 +1,302 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://docs.shuttle.dev/community/contribute</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/community/get-involved</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/community/open-source</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/account</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/builds</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/deployment-environment</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/domain-names</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/files</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/local-run</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/logs</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/project-configuration</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/teams</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/telemetry/betterstack</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/telemetry/custom-metrics</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/telemetry/getting-started</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/docs/telemetry/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/actix</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/actix-cookie-authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/actix-postgres</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/actix-static-files</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/actix-websocket-actorless</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/axum</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/axum-jwt-authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/axum-postgres</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/axum-static-files</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/axum-websockets</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/loco</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/other</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/poise</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/rocket</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/rocket-jwt-authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/rocket-postgres</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/rocket-static-files</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/serenity</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/examples/serenity-todo</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/getting-started/installation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/getting-started/quick-start</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/guides/cli</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/guides/migrate-shared-postgres</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/guides/upgrade</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/integrations/ci-cd</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/integrations/custom-resources</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/integrations/mcp-server</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/integrations/shuttle-openai</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/integrations/shuttle-opendal</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/integrations/shuttle-qdrant</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/integrations/shuttle-turso</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/migration/guide</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/platform-update/migration</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/platform-update/platform-update</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/pricing/billing</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/pricing/faq</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/pricing/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/pricing/scaling</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/pricing/upgrading</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/resources/resources</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/resources/shuttle-secrets</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/resources/shuttle-shared-db</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/support/faq</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/support/support</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/support/troubleshooting</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/fullstack/saas-template</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/custom-service</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/databases-with-rust</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/discord-weather-forecast</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/rest-http-service-with-axum</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/send-your-logs-to-datadog</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/serverless-calendar-app</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/url-shortener</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/templates/tutorials/websocket-chat-app-js</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.shuttle.dev/welcome/introduction</loc>
+  </url>
+</urlset>
