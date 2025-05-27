@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://docs.shuttle.dev/sitemap.xml
+Sitemap: https://docs.cyndra.dev/sitemap.xml
