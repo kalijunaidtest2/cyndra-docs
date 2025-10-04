@@ -1,302 +1,302 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     
   <url>
-    <loc>https://docs.cyndra.dev/community/contribute</loc>
+    <loc>https://docs.klyra.dev/community/contribute</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/community/get-involved</loc>
+    <loc>https://docs.klyra.dev/community/get-involved</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/community/open-source</loc>
+    <loc>https://docs.klyra.dev/community/open-source</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/account</loc>
+    <loc>https://docs.klyra.dev/docs/account</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/builds</loc>
+    <loc>https://docs.klyra.dev/docs/builds</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/deployment-environment</loc>
+    <loc>https://docs.klyra.dev/docs/deployment-environment</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/domain-names</loc>
+    <loc>https://docs.klyra.dev/docs/domain-names</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/files</loc>
+    <loc>https://docs.klyra.dev/docs/files</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/local-run</loc>
+    <loc>https://docs.klyra.dev/docs/local-run</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/logs</loc>
+    <loc>https://docs.klyra.dev/docs/logs</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/project-configuration</loc>
+    <loc>https://docs.klyra.dev/docs/project-configuration</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/projects</loc>
+    <loc>https://docs.klyra.dev/docs/projects</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/teams</loc>
+    <loc>https://docs.klyra.dev/docs/teams</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/telemetry/betterstack</loc>
+    <loc>https://docs.klyra.dev/docs/telemetry/betterstack</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/telemetry/custom-metrics</loc>
+    <loc>https://docs.klyra.dev/docs/telemetry/custom-metrics</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/telemetry/getting-started</loc>
+    <loc>https://docs.klyra.dev/docs/telemetry/getting-started</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/docs/telemetry/overview</loc>
+    <loc>https://docs.klyra.dev/docs/telemetry/overview</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/actix</loc>
+    <loc>https://docs.klyra.dev/examples/actix</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/actix-cookie-authentication</loc>
+    <loc>https://docs.klyra.dev/examples/actix-cookie-authentication</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/actix-postgres</loc>
+    <loc>https://docs.klyra.dev/examples/actix-postgres</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/actix-static-files</loc>
+    <loc>https://docs.klyra.dev/examples/actix-static-files</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/actix-websocket-actorless</loc>
+    <loc>https://docs.klyra.dev/examples/actix-websocket-actorless</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/axum</loc>
+    <loc>https://docs.klyra.dev/examples/axum</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/axum-jwt-authentication</loc>
+    <loc>https://docs.klyra.dev/examples/axum-jwt-authentication</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/axum-postgres</loc>
+    <loc>https://docs.klyra.dev/examples/axum-postgres</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/axum-static-files</loc>
+    <loc>https://docs.klyra.dev/examples/axum-static-files</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/axum-websockets</loc>
+    <loc>https://docs.klyra.dev/examples/axum-websockets</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/loco</loc>
+    <loc>https://docs.klyra.dev/examples/loco</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/other</loc>
+    <loc>https://docs.klyra.dev/examples/other</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/overview</loc>
+    <loc>https://docs.klyra.dev/examples/overview</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/poise</loc>
+    <loc>https://docs.klyra.dev/examples/poise</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/rocket</loc>
+    <loc>https://docs.klyra.dev/examples/rocket</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/rocket-jwt-authentication</loc>
+    <loc>https://docs.klyra.dev/examples/rocket-jwt-authentication</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/rocket-postgres</loc>
+    <loc>https://docs.klyra.dev/examples/rocket-postgres</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/rocket-static-files</loc>
+    <loc>https://docs.klyra.dev/examples/rocket-static-files</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/serenity</loc>
+    <loc>https://docs.klyra.dev/examples/serenity</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/examples/serenity-todo</loc>
+    <loc>https://docs.klyra.dev/examples/serenity-todo</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/getting-started/installation</loc>
+    <loc>https://docs.klyra.dev/getting-started/installation</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/getting-started/quick-start</loc>
+    <loc>https://docs.klyra.dev/getting-started/quick-start</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/guides/cli</loc>
+    <loc>https://docs.klyra.dev/guides/cli</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/guides/migrate-shared-postgres</loc>
+    <loc>https://docs.klyra.dev/guides/migrate-shared-postgres</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/guides/upgrade</loc>
+    <loc>https://docs.klyra.dev/guides/upgrade</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/integrations/ci-cd</loc>
+    <loc>https://docs.klyra.dev/integrations/ci-cd</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/integrations/custom-resources</loc>
+    <loc>https://docs.klyra.dev/integrations/custom-resources</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/integrations/mcp-server</loc>
+    <loc>https://docs.klyra.dev/integrations/mcp-server</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/integrations/cyndra-openai</loc>
+    <loc>https://docs.klyra.dev/integrations/klyra-openai</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/integrations/cyndra-opendal</loc>
+    <loc>https://docs.klyra.dev/integrations/klyra-opendal</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/integrations/cyndra-qdrant</loc>
+    <loc>https://docs.klyra.dev/integrations/klyra-qdrant</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/integrations/cyndra-turso</loc>
+    <loc>https://docs.klyra.dev/integrations/klyra-turso</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/migration/guide</loc>
+    <loc>https://docs.klyra.dev/migration/guide</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/platform-update/migration</loc>
+    <loc>https://docs.klyra.dev/platform-update/migration</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/platform-update/platform-update</loc>
+    <loc>https://docs.klyra.dev/platform-update/platform-update</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/pricing/billing</loc>
+    <loc>https://docs.klyra.dev/pricing/billing</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/pricing/faq</loc>
+    <loc>https://docs.klyra.dev/pricing/faq</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/pricing/overview</loc>
+    <loc>https://docs.klyra.dev/pricing/overview</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/pricing/scaling</loc>
+    <loc>https://docs.klyra.dev/pricing/scaling</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/pricing/upgrading</loc>
+    <loc>https://docs.klyra.dev/pricing/upgrading</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/resources/resources</loc>
+    <loc>https://docs.klyra.dev/resources/resources</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/resources/cyndra-secrets</loc>
+    <loc>https://docs.klyra.dev/resources/klyra-secrets</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/resources/cyndra-shared-db</loc>
+    <loc>https://docs.klyra.dev/resources/klyra-shared-db</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/support/faq</loc>
+    <loc>https://docs.klyra.dev/support/faq</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/support/support</loc>
+    <loc>https://docs.klyra.dev/support/support</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/support/troubleshooting</loc>
+    <loc>https://docs.klyra.dev/support/troubleshooting</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/fullstack/saas-template</loc>
+    <loc>https://docs.klyra.dev/templates/fullstack/saas-template</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/overview</loc>
+    <loc>https://docs.klyra.dev/templates/overview</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/authentication</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/authentication</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/custom-service</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/custom-service</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/databases-with-rust</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/databases-with-rust</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/discord-weather-forecast</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/discord-weather-forecast</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/rest-http-service-with-axum</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/rest-http-service-with-axum</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/send-your-logs-to-datadog</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/send-your-logs-to-datadog</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/serverless-calendar-app</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/serverless-calendar-app</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/url-shortener</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/url-shortener</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/templates/tutorials/websocket-chat-app-js</loc>
+    <loc>https://docs.klyra.dev/templates/tutorials/websocket-chat-app-js</loc>
   </url>
 
   <url>
-    <loc>https://docs.cyndra.dev/welcome/introduction</loc>
+    <loc>https://docs.klyra.dev/welcome/introduction</loc>
   </url>
 </urlset>
